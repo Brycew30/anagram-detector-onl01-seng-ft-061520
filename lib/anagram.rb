@@ -6,6 +6,8 @@ class Anagram
   end
   
   def match
-    
+    match_array = []
+    possible_array.each do |anagram|
+      
   end
 end
